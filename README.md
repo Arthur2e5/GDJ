@@ -14,6 +14,11 @@ FreeType is probably the most noticable one &ndash; you can plug in your own
 LCD filters, mess around with all kinds of custom settings. You know,
 freedom is cool.
 
+Short-Term Plans
+----------------
+
+- [ ] Figure out about FreeType2. Provide some infinality options.
+
 About This Project
 ------------------
 
