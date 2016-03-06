@@ -31,3 +31,8 @@ Don't even expect class or dll name changes -- unnecessary changesets
 aren't interesting at all.
 
 (I am planning to rename gdimm to gdh. H… Hunter?)
+
+Copying
+-------
+
+This project is released under the GNU LGPL, version 2.1+.
